@@ -1,5 +1,6 @@
 {
-  "type": "esp32-fota-http",
+  "type": "pstally-firmware",
   "version": "2.5.1",
-  "url": "https://pikexi.se/support/pstally/firmware.bin"
+  "url": "https://pikexi.se/support/pstally/firmware.bin",
+  "spiffs": "https://pikexi.se/support/pstally/spiffs.bin"
 }
