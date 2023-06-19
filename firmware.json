@@ -1,8 +1,9 @@
 {
-    "type": "pstally-firmware",
-    "version": 2.5.1,
-    "host": "pikexi.se",
-    "port": 443,
-    "bin": "/support/pstally/firmware.bin",
-    "spiffs": "/support/pstally/spiffs.bin"
-}
+  "type": "pstally-firmware",
+  "version": "2.5.1",
+  "host": "pikexi.se",
+  "port": 443,
+  "bin": "/support/pstally/firmware.bin",
+  "spiffs": "/support/pstally/spiffs.bin"
+  }
+  
